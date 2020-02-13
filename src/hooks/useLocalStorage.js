@@ -1,4 +1,4 @@
-import {useState} from 'React';
+import {useState} from 'react';
 
 
 //Example use: const [name, setName] = useLocalStorage('name', 'Liam')
