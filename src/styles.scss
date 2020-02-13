@@ -90,6 +90,7 @@ video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  transition: background-color 4s ease;
 }
 /* HTML5 display-role reset for older browsers */
 article,
@@ -138,6 +139,7 @@ html {
   font-size: 62.5%;
   font-family: 'Open Sans', sans-serif;
   font-weight: 500;
+  
 }
 
 h1 {
